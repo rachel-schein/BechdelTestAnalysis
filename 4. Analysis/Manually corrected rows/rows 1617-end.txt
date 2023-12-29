@@ -1,0 +1,3 @@
+Added period_code and decade_code for rows 1617-end
+period_code reperesents half a decade
+decade_code represents the complete decade

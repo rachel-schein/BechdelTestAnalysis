@@ -1,0 +1,18 @@
+﻿RowNumber,year,imdb,title,test,clean_test,binary,budget,domgross,intgross,code,budget_2013$,domgross_2013$,intgross_2013$,period code,decade code
+74,2013,tt2005374,The Frozen Ground,nowomen-disagree,nowomen,FAIL,19200000,#N/A,#N/A,2013FAIL,19200000,#N/A,#N/A,1,"1"
+189,2011,tt1422136,A Lonely Place to Die,ok,ok,PASS,4000000,#N/A,442550,2011PASS,4142763,#N/A,458345,1,"1"
+208,2011,tt1701990,Detention,ok,ok,PASS,10000000,#N/A,#N/A,2011PASS,10356908,#N/A,#N/A,1,"1"
+435,2010,tt1216520,Womb,ok,ok,PASS,13000000,#N/A,#N/A,2010PASS,13887014,#N/A,#N/A,1,"1"
+553,2009,tt1068678,Veronika Decides to Die,ok,ok,PASS,9000000,#N/A,#N/A,2009PASS,9771584,#N/A,#N/A,2,"2"
+560,2009,tt0448182,Yesterday Was a Lie,ok,ok,PASS,200000,#N/A,#N/A,2009PASS,217146,#N/A,#N/A,2,"2"
+576,2008,tt0489018,Day of the Dead,ok,ok,PASS,18000000,#N/A,#N/A,2008PASS,19480614,#N/A,#N/A,2,"2"
+626,2008,tt0942903,Stargate: The Ark of Truth,dubious-disagree,dubious,FAIL,7000000,#N/A,#N/A,2008FAIL,7575794,#N/A,#N/A,2,"2"
+651,2008,tt0882978,Three Kingdoms: Resurrection of the Dragon,notalk,notalk,FAIL,20000000,#N/A,22139590,2008FAIL,21645126,#N/A,23960711,2,"2"
+664,2007,tt1038988,[Rec],ok,ok,PASS,2100000,#N/A,27117954,2007PASS,2359441,#N/A,30468201,2,"2"
+722,2007,tt0756683,The Man from Earth,notalk,notalk,FAIL,200000,#N/A,#N/A,2007FAIL,224709,#N/A,#N/A,2,"2"
+736,2007,tt0496436,White Noise 2: The Light,notalk,notalk,FAIL,10000000,#N/A,8243567,2007FAIL,11235435,#N/A,9262006,2,"2"
+741,2006,tt0416496,Bandidas,ok,ok,PASS,35000000,#N/A,18400000,2006PASS,40452872,#N/A,21266653,2,"2"
+770,2006,tt0490166,London To Brighton,ok,ok,PASS,825000,#N/A,610776,2006PASS,953532,#N/A,705933,2,"2"
+1676,1985,tt0088993,Day of the Dead,nowomen,nowomen,FAIL,18000000,#N/A,#N/A,1985FAIL,38971004,#N/A,#N/A,6,"4"
+1679,1985,tt0091578,My Beautiful Laundrette,men,men,FAIL,400000,#N/A,#N/A,1985FAIL,866022,#N/A,#N/A,6,"4"
+1786,1972,tt0068156,1776,notalk,notalk,FAIL,4000000,#N/A,#N/A,1972FAIL,22288557,#N/A,#N/A,9,"5"
