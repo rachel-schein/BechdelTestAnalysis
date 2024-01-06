@@ -1,0 +1,5 @@
+Fun little exercise where I trained a linear regression model only with the films that PASS the test to predict how much the barbie movie would make based only on its budget.
+The result was that the movie actually grossed 5 times the predicted amount based on the model.
+The other outlier that sits on the top right of the chart is a pirates of the caribbean movie.
+
+Clearly budget is only one among the sea of factors that predict a movie's success in the box office.
