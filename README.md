@@ -7,6 +7,9 @@ The findings are presented in a report located in the "6. Final" folder.
 
 Tools:
 Visual Studio 2022 to upload the data into a databse
+
 SQL Server Management Studio 19 to clean the data and filter movies from 1990 onwards
+
 python (To move the dubious movies from the FAIL to PASS category)
+
 Tableau to create visualizations
